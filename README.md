@@ -28,7 +28,7 @@ Soft Skills: Communication, Teamwork, Problem Solving
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 | Certification | Platform |
 |---------------|----------|
@@ -39,7 +39,7 @@ Soft Skills: Communication, Teamwork, Problem Solving
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 - 📧 Email: harshithaharshi9676@gmail.com  
 - 📍 Location: Anantapuram, India  
@@ -48,7 +48,7 @@ Soft Skills: Communication, Teamwork, Problem Solving
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshitha-arveti&show_icons=true&theme=dark" width="48%" />
@@ -57,18 +57,18 @@ Soft Skills: Communication, Teamwork, Problem Solving
 
 ---
 
-## 💡 Quote
+# 💡 Quote
 
 > "Code is like humor. When you have to explain it, it’s bad."  
 > — Cory House
 
 ---
 
-## 🌟 Currently Learning
+# 🌼 Currently Learning
 
 - 🛡️ Network Security  
 - 📚 DSA with Java  
 - 🟩 Node.js  
-- 🌐 Full Stack Web Development (Frontend & Backend)
+- 🌐 Frontend & Backend Web Development
 
 
