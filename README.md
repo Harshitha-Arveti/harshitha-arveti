@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Arveti Harshitha
 
 🎓 3rd-year B.Tech CSE (Cybersecurity) student at Jain University  
-💻 Java Programmer | Cybersecurity Enthusiast | front-end developer
+💻 Java Programmer | Cybersecurity Enthusiast
 🔐 Interested in network security, ethical hacking, and web development
 
 ---
