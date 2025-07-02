@@ -42,7 +42,7 @@ Soft Skills: Communication, Teamwork, Problem Solving
 - 📧 Email: harshithaharshi9676@gmail.com  
 - 📍 Location: Anantapuram, India  
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshitha-arveti)  
-- 🧑‍💻 [GitHub](https://github.com/harshitha-arveti)
+
 
 ---
 
