@@ -21,14 +21,12 @@
 
 ## 🧠 Skills
 
-```txt
 Languages: Java, python, SQL, HTML, CSS, JavaScript 
 Tools: Wireshark, Nmap, Streamlit, VS Code, IntelliJ  
 Soft Skills: Communication, Teamwork, Problem Solving
-
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 | Certification | Platform |
 |---------------|----------|
