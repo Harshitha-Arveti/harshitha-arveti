@@ -1,3 +1,5 @@
+<img src="profile.png" alt="Banner" width="100%" />
+
 # 👋 Hi, I'm Arveti Harshitha
 
 🎓 3rd-year B.Tech CSE (Cybersecurity) student at Jain University  
